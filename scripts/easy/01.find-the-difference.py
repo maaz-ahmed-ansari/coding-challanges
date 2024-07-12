@@ -38,3 +38,14 @@ def findTheDifference(s, t):
     
 # The ord() function returns the number representing the unicode code of a specified character.
 # The chr() function returns the character that represents the specified unicode.
+
+
+# Example 1:
+
+# Input: s = "abcd", t = "abcde"
+# Output: "e"
+# Explanation: 'e' is the letter that was added.
+# Example 2:
+
+# Input: s = "", t = "y"
+# Output: "y"
