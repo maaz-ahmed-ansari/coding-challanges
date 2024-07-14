@@ -17,3 +17,4 @@ This repository contains solution for the Coding challenges posted on [Leetcode]
 | ID | Challenge | Solution Script | Remark |
 |:------:|------------|:---------:|:---------:|
 | 01 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words) | [Solution](scripts/medium/01.top-k-frequent-words.py) | Mut Do
+| 02 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) | [Solution](scripts/medium/02.sort-characters-by-frequency.py) | Mut Do
