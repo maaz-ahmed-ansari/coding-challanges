@@ -23,3 +23,24 @@ def sortArray(nums):
             )
     
     return result
+
+
+    # Slight Difference
+    map = dict()
+    # result = []
+
+    for num in nums:
+        if num not in map:
+            map[num] = 1
+        else:
+            map[num] += 1
+
+    i = 0
+    for x in range(min(nums), max(nums)+1):
+        if x in map:
+            while map[x] > 0:
+                nums[i] = x
+                i += 1
+                map[num] -= 1
+    
+    return nums
