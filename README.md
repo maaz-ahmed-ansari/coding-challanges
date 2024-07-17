@@ -10,6 +10,7 @@ This repository contains solution for the Coding challenges posted on [Leetcode]
 | 02 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](scripts/easy/02.two-sum.py) | Must Do
 | 03 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](scripts/easy/03.palindrome-number.py) | Must Do
 | 04 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Solution](scripts/easy/04.find-words-that-can-be-formed-by-characters.py) | Must Do
+| 05 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [Solution](scripts/easy/05.reverse-vowels-of-a-string.py) | Must Do
 
 
 #### Difficulty Level : Medium
