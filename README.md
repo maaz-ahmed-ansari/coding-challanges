@@ -21,3 +21,4 @@ This repository contains solution for the Coding challenges posted on [Leetcode]
 | 01 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words) | [Solution](scripts/medium/01.top-k-frequent-words.py) | Mut Do
 | 02 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) | [Solution](scripts/medium/02.sort-characters-by-frequency.py) | Mut Do
 | 03 | [Sort an Array](https://leetcode.com/problems/sort-an-array) | [Solution](scripts/medium/03.sort-an-array.py) | Mut Do
+| 04 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | [Solution](scripts/medium/04.reverse-words-in-a-string.py) | Mut Do - Revisit for pointers approach
