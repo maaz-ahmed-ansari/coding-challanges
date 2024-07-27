@@ -24,3 +24,4 @@ This repository contains solution for the Coding challenges posted on [Leetcode]
 | 04 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | [Solution](scripts/medium/04.reverse-words-in-a-string.py) | Mut Do - Revisit for pointers approach
 | 05 | [Group Anagrams](https://leetcode.com/problems/group-anagrams)  | [Solution](scripts/medium/05.group-anagrams.py) | Mut Do
 | 06 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition) | [Solution](scripts/medium/06.number-of-subsequences-that-satisfy-the-given-sum-condition.py) | Mut Do
+| 07 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) | [Solution](scripts/medium/07.minimize-maximum-pair-sum-in-array.py) | Mut Do
