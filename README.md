@@ -25,6 +25,7 @@ This repository contains solution for the Coding challenges posted on [Leetcode]
 | 05 | [Group Anagrams](https://leetcode.com/problems/group-anagrams)  | [Solution](scripts/medium/05.group-anagrams.py) | Mut Do
 | 06 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition) | [Solution](scripts/medium/06.number-of-subsequences-that-satisfy-the-given-sum-condition.py) | Mut Do
 | 07 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) | [Solution](scripts/medium/07.minimize-maximum-pair-sum-in-array.py) | Mut Do
+| 08 | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends) | [Solution](scripts/medium/08.minimum-length-of-string-after-deleting-similar-ends.py) | Mut Do
 
 
 #### Difficulty Level : Hard
