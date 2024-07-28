@@ -4,13 +4,13 @@ def numberOfGoodPartitions(nums):
     :rtype: int
     """
     # Map last index of appearance of the number in nums
-    mapped = {
+    last_index = {
         nums[i]: i for i in range(len(nums))
     }
     
     # Take 0th index to i and max index for first element appeared in nums
     i = 0
-    j = mapped[nums[i]]
+    j = last_index[nums[i]]
     result = 1
     
     # go from 0 to n-1 for i
@@ -21,7 +21,7 @@ def numberOfGoodPartitions(nums):
             # Multiply result with 2 and take it's modulo
             result = (result * 2) % (10 ** 9 + 7)
         # assig j with maximum index of nums[i] or existing j
-        j = max(j, mapped[nums[i]])
+        j = max(j, last_index[nums[i]])
 
     return result
 
